@@ -1,0 +1,9 @@
+:host {
+    display:block;
+    background-color: red;
+    padding: 30px;
+}
+
+button {
+    background-color: green;
+}
